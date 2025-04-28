@@ -5,7 +5,7 @@ import './App.css'
 
 const api = axios.create(
   {
-    baseURL: 'http://10.0.140.209:8000'
+    baseURL: 'http://13.218.227.19:8000'
   }
 );
 
